@@ -1,0 +1,5 @@
+TO UPDATE:
+
+Allow widgets to scale with window size.
+Create a Disconnect Camera button.
+Upload data to SQL database.
